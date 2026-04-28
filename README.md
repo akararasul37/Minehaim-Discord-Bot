@@ -37,16 +37,22 @@ Minehaim Discord Bot, sunucunuzu yönetmek, eğlenceyi artırmak ve topluluğunu
 
 ## 📸 Görseller
 
-### Sunucu Yönetimi
-![Moderasyon](screenshots/moderation.png)
-*Gelişmiş moderasyon komutları ve log sistemi.*
+### Yardım Komutu 
+<img width="723" height="401" alt="image" src="https://github.com/user-attachments/assets/78b4d40f-e5a5-4c5b-86ee-a54672300e07" />
+
 
 ### Ekonomi ve Seviye
-![Ekonomi](screenshots/economy.png)
+<img width="706" height="432" alt="image" src="https://github.com/user-attachments/assets/a1e6940c-b74d-46ce-8e29-bf296e5abb91" />
+
 *Kullanıcıların bakiyelerini ve seviyelerini görebileceği şık rank kartları.*
 
 ### Destek Sistemi
-![Ticket](screenshots/ticket.png)
+<img width="475" height="153" alt="image" src="https://github.com/user-attachments/assets/d8372f08-421f-4b99-9a3a-a98a77a019a7" />
+
+
+<img width="695" height="311" alt="image" src="https://github.com/user-attachments/assets/9c4ee30a-e09d-4f07-a1ae-4406eebe77c1" />
+
+
 *Kullanıcıların kolayca destek talebi oluşturabileceği butonlu arayüz.*
 
 ---
@@ -57,15 +63,6 @@ Minehaim Discord Bot, sunucunuzu yönetmek, eğlenceyi artırmak ve topluluğunu
 - **Kütüphane:** JDA (Java Discord API)
 - **Veritabanı:** MySQL / JSON (Opsiyonel)
 - **Mimar:** Slash Commands, Button Interactors, Modal UI
-
----
-
-## 📞 İletişim
-
-Eğer bot hakkında daha fazla bilgi almak veya sunucunuz için benzer bir bot talep etmek isterseniz bana ulaşabilirsiniz:
-
-- **Discord:** `[Kullanıcı Adınız]`
-- **Web:** [minehaim.com](https://minehaim.com)
 
 ---
 
